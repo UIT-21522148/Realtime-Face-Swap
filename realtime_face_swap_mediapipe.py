@@ -16,16 +16,16 @@ cap.set(4, height)
 
 # For static images:
 src_image_paths = [
-    "images/bill_gates.jpg",
+    "images/dwayne_johnson.jpg",
+    "images/mtus.jpg",
     "images/steve_jobs.jpg",
     "images/donald_trump.jpg",
-    "images/dwayne_johnson.jpg",
     "images/will_smith.jpg",
     "images/psy.jpg",
     "images/seok_koo_son.jpg",
     "images/hae_jin_yoo.jpg",
     "images/hyun_bin.png",
-    "images/danial_henney.jpg",
+    "images/j97.png",
 ]
 
 src_images = []
